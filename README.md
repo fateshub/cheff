@@ -1,24 +1,16 @@
 # cheff
 
-## Project setup
-```
-yarn install
-```
+## About
+Cheff: Tinder for your recipes
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Progress
 
-### Compiles and minifies for production
-```
-yarn build
-```
+[x] Ui
 
-### Lints and fixes files
-```
-yarn lint
-```
+[] connect to API
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[] Vuex for managing data 
+
+[] Firebase for DB and auth
+
+
